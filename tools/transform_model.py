@@ -3,7 +3,7 @@ sys.path.append("..")
 
 import numpy as np
 
-from pycolmap import Quaternion, SceneManager
+from pycolmaploader import Quaternion, SceneManager
 
 
 #-------------------------------------------------------------------------------
